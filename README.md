@@ -69,11 +69,6 @@ If you find this work useful, please cite our paper:
 
 This work is supported by Waseda University and Southeast University. We thank the authors of [Stable Diffusion](https://github.com/CompVis/stable-diffusion), [Tune-A-Video](https://github.com/showlab/Tune-A-Video), and [Mamba](https://github.com/state-spaces/mamba) for their excellent work.
 
-## 📧 Contact
-
-For questions and discussions, please contact:
-- Mingshu Cai: mignshucai@fuji.waseda.jp
-
 ## 📄 License
 
 This project is licensed under the Apache License 2.0 - see the [LICENSE](LICENSE) file for details.
